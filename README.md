@@ -38,7 +38,7 @@
 
 ##### 在线使用：　获取Token
 
-在 ```github > settings > Developer settings > Personal access tokens```  勾选　权限 ```gist``` 、  ```repo``` 获取Token
+在 [new token ](https://github.com/settings/tokens/new)  勾选　权限 ```gist``` 、  ```repo``` 获取Token
 
  
 
