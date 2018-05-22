@@ -3,7 +3,6 @@
 ![](https://img.shields.io/badge/element--ui-2.3.5-brightgreen.svg)
 ![](https://img.shields.io/badge/vant-1.1.2-brightgreen.svg)
 
-[ toc ]
 
 ## 简介
 
@@ -11,9 +10,9 @@
 博客数据储存于gist 通过Github API 进行增删改查
 喜欢的话留下你的星星╭(●｀∀´●)╯╰(●’◡’●)╮
 
-[演示地址][https://github-laziji.github.io]
+[演示地址](https://github-laziji.github.io)
 
-[项目源码 ][ https://github.com/GitHub-Laziji/vblog]
+[项目源码 ](https://github.com/GitHub-Laziji/vblog)
 
 项目特点：
 
@@ -39,13 +38,11 @@
 
 ##### 在线使用：　获取Token
 
-在 ```github > settings > Developer settings > Personal access tokens```  勾选　权限 
+在 ```github > settings > Developer settings > Personal access tokens```  勾选　权限 ```gist``` 、  ```repo``` 获取Token
 
-- ```gist```  
+ 
 
-- ```repo```
 
-获取```Token```
 
 
 
